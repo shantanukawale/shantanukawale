@@ -1,7 +1,7 @@
 ### Hi there, I'm Shantanu 👋
 
 - 🔭 Currently working at Whitehat Jr.
-- 🌱 Trying to learn as much as I can
+- 🌱 Trying to learn as much as I can.
 - 🥅 Looking out for interesting projects (open-source and others) to work on and new langauges to learn. 
 
 ### Connect with me:

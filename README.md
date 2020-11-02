@@ -39,7 +39,7 @@
 <br />
 <br />
 
-<!-- [![Shantanu's github stats](https://github-readme-stats.vercel.app/api?username=shantanukawale&hide=stars&show_icons=true)](https://github.com/shantanukawale/github-readme-stats) -->
+[![Shantanu's github stats](https://github-readme-stats.vercel.app/api?username=shantanukawale&hide=stars&show_icons=true)](https://github.com/shantanukawale/github-readme-stats)
 ---
 
 

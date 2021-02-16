@@ -2,7 +2,7 @@
 
 - 🔭 Currently working at Whitehat Jr.
 - 🌱 Trying to learn as much as I can.
-- 🥅 Looking out for interesting projects (open-source and others) to work on and new langauges to learn. 
+- 🥅 Looking out for interesting projects (open-source and others) to work on and new technologies to learn. 
 
 ### Connect with me:
 
